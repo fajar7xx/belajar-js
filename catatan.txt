@@ -1,0 +1,20 @@
+tipe data
+1. number
+2. string
+3. boolean
+4. object
+5. function
+6. undefined
+
+operator typeof = untuk mengetahui operand apa itu]
+
+popupbox js
+alert
+prompt
+confirm
+
+apa itu control flow (alur kendali)
+
+table penelusuran : tool untuk memhami alur pemrograman kita
+trace table/ dry run test
+caranya
