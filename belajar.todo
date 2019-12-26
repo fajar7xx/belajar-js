@@ -49,19 +49,22 @@ list latihan blajar js dasar:
     ===
 
 link nya disni https://www.youtube.com/watch?v=aT60R1cySLM&list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3
+mengenai event cari disini
+https://developer.mozilla.org/en-US/docs/Web/Events
+
 list latihan belajar Javascript dan DOM (Document Object Model):
-    ☐ video 1 Javascript & DOM #1 - Pendahulua n
-    ☐ video 2
-    ☐ video 3
-    ☐ video 4
-    ☐ video 5
-    ☐ video 6
-    ☐ video 7
-    ☐ video 8
-    ☐ video 9
-    ☐ video 10
-    ☐ video 11
-    ☐ video 12
-    ☐ video 13
-    ☐ video 14
+    ✔ video 1 Javascript & DOM #1 - Pendahulua n @done (12/23/2019, 10:12:39 AM)
+    ✔ video 2 Javascript & DOM #2 - DOM Tree @done (12/23/2019, 10:37:30 AM)
+    ✔ video 3 Javascript & DOM #3 - DOM Selection (Part 1) @done (12/23/2019, 11:14:46 AM)
+    ✔ video 4 Javascript & DOM #4 - DOM Selection (Part 2) @done (12/23/2019, 12:22:34 PM)
+    ✔ video 5 Javascript & DOM #5 - DOM Manipulation (Part 1) @done (12/24/2019, 10:40:19 AM)
+    ✔ video 6 Javascript & DOM #6 - DOM Manipulation (Part 2) @done (12/24/2019, 11:24:30 AM)
+    ✔ video 7 Javascript & DOM #7 - DOM Events @done (12/24/2019, 2:27:29 PM)
+    ✔ video 8 Javascript & DOM #8 - Bermain dengan WARNA (Latihan DOM 1) @done (12/24/2019, 4:48:00 PM)
+    ✔ video 9 Javascript & DOM #9 - Membuat Game SUWIT JAWA v2.0 (Latihan DOM 2) @done (12/25/2019, 2:37:57 PM)
+    ✔ video 10 Javascript & DOM #10 - DOM Traversal @done (12/25/2019, 3:44:16 PM)
+    ✔ video 11 Javascript & DOM #11 - Prevent Default @done (12/25/2019, 4:05:03 PM)
+    ✔ video 12 Javascript & DOM #12 - Event Bubbling @done (12/25/2019, 4:19:22 PM)
+    ✔ video 13 membuat image gallery dengan DOM @done (12/25/2019, 9:42:57 PM)
+    ✔ video 14 finish @done (12/26/2019, 8:43:47 AM)
     
