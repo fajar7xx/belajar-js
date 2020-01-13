@@ -1,0 +1,23 @@
+[
+    {
+        "nama" : "fajar setiawan siagian",
+        "nim": "141112699",
+        "email": "fajar7xx@gmail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "zhari prada siagian",
+        "nim": "145551234",
+        "email": "azhari@mail.com",
+        "jurusan": "Teknik Bangunnan",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Nadiah Syahputri",
+        "nim": "142131234",
+        "email": "nadia@mail.com",
+        "jurusan": "Teknik Informatika",
+        "idDosenWali": 1
+    }
+]
